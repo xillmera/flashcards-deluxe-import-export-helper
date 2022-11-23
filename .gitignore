@@ -1,0 +1,12 @@
+.idea/
+recepies.db
+__pycache__/
+__main__.py
+production/
+JSON_production/
+START_GIT.bat
+last_stable_ver/
+additional/splash/
+additional/deprecated/
+additional/last_stable_ver/
+additional/test/
